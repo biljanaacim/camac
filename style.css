@@ -42,7 +42,7 @@ section {
 .hero-image {
   position: relative;
   height: 100vh;
-  background-image: url('img/hero.jpg');
+  background-image: url('img/hero1.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
